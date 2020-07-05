@@ -1,0 +1,33 @@
+/*Sección preloader*/
+.preloader .preloader-img img{
+  max-width: 82px;
+
+}
+#circle-anim{
+  background-color: #FEA621;
+  border-top-color: #000000;
+}
+
+/*Sección NAVBAR*/
+.header-area{
+  background-color: #FEA621;
+}
+.sticky-bar{
+  background-color: #FEA621;
+}
+
+.border-btn{
+  border-color: #000000;
+}
+.border-btn::before{
+  background-color: #ff7400;
+}
+
+/*Sección cuerpo*/
+body{
+  background-color: #Ffffff;
+}
+/*Slider area*/
+.slider-area{
+  background-color: #FEA621;
+}
